@@ -43,7 +43,7 @@ public class RecoilGenerator : MonoBehaviour
         pointCount = loadedData.Count + 1;
         SetPointCount();
 
-        for(int i = 1; i < loadedData.Count; i++)
+        for(int i = 1; i < points.Count; i++)
         {
             points[i].transform.position = points[i - 1].transform.position + new Vector3(loadedData[i - 1].x, loadedData[i - 1].y);
         }

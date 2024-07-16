@@ -167,9 +167,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   JsonFile: {fileID: 4900000, guid: e3f4413f8a29c7641a084da229fd6931, type: 3}
-  fileName: test.json
+  fileName: test3.json
   pointPrefab: {fileID: 8378233265859446170, guid: 42e60a4e4146ee94fb713eccfe0f08c5, type: 3}
-  pointCount: 30
+  pointCount: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
